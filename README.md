@@ -211,7 +211,7 @@ Asegúrate de que `DATASET_DENUNCIAS.csv` esté en la raíz del proyecto, luego 
 ---
 
 ## 🗃️ Fuente de datos
-Dataset oficial de denuncias policiales — [datos.gob.pe](https://datos.gob.pe) · Ministerio del Interior del Perú.
+Dataset oficial de denuncias policiales — [datos](https://www.datosabiertos.gob.pe/dataset/denuncias-policiales-1) · 
 
 ---
 
